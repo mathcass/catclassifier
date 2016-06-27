@@ -8,6 +8,7 @@ import sys
 import numpy as np
 from skimage import io
 from skimage import transform
+from tflearn.data_utils import shuffle
 
 from model import setup_model
 
