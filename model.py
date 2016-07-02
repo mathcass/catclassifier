@@ -1,4 +1,4 @@
-"""Sets up model code for training on cat dataaset
+"""Sets up model code for training on cat dataset
 """
 
 import tflearn
